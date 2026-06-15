@@ -80,7 +80,9 @@ scientific-ml-copilot/
 ├── chroma_db/
 └── screenshots/
 ```
-Note: Users should place their PDF documents in the data/ directory and run: python ingest.py
+Users should place their PDF documents in the data/ directory and run: python ingest.py
+
+
 ---
 
 ## Example Questions
