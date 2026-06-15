@@ -169,18 +169,15 @@ python -m streamlit run app.py
 
 ### Scientific ML Copilot
 
-Add screenshot here:
-
-```text
-screenshots/rag_interface.png
 ```
-
 ### Evaluation Dashboard
 
 Add screenshot here:
 
 ```text
 screenshots/evaluation_dashboard.png
+<img width="1460" height="902" alt="evaluation-dashboard" src="https://github.com/user-attachments/assets/54ab9d39-7682-4cbe-834f-e0d79431b702" />
+
 ```
 
 ---
@@ -199,6 +196,4 @@ screenshots/evaluation_dashboard.png
 
 Raj Birru
 
-University of Washington – MS AI/ML
 
-Boeing Production Engineering Manager
