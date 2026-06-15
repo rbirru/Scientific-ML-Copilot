@@ -8,10 +8,6 @@ dynamics (SINDy), and model predictive control (MPC).
 Built using Llama 3, Ollama, ChromaDB, LangChain, HuggingFace Embeddings,
 and Streamlit.
 
-# Scientific ML Copilot Using RAG
-
-A Retrieval-Augmented Generation (RAG) assistant for Scientific Machine Learning research, enabling source-grounded question answering and literature synthesis across Physics-Informed Neural Networks (PINNs), Sparse Identification of Nonlinear Dynamics (SINDy), and Model Predictive Control (MPC).
-
 ---
 
 ## Features
